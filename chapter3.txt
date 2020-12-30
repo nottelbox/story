@@ -1,1 +1,3 @@
 He programmed an awesome project and loaded it to github.
+The project was a website which offered a service to its visitors.
+The users loved it and paid money to the developer.
